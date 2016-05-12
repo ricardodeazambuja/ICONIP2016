@@ -5,6 +5,7 @@ How can we build robot controllers that are able to work under harsh conditions,
 Here we present the results from two arrangements of Spiking Neural Networks, based on the Liquid State Machine (LSM) framework, that were able to gracefully degrade under the effects of a noisy current injected directly into each simulated neuron. 
 These noisy currents could be seen, in a simplified way, as the consequences of exposition to non-destructive radiation.
 The results show that not only can the systems withstand noise, but one of the configurations, the Modular Parallel LSM, actually improved its results, in a certain range, when the noise levels were increased. Also, the robot controllers implemented in this work are suitable to run on a modern, power efficient neuromorphic hardware such as SpiNNaker.
+### (this work is based on [github.com/ricardodeazambuja/IJCNN2016](https://github.com/ricardodeazambuja/IJCNN2016))
 
 1) The trajectories are generated using a simulated BAXTER robot inside V-REP.
 - BEE_Simulator_ArmControl_VREP_trajectories-generator_v1-SQUARE.ipynb
