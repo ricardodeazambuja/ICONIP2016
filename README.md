@@ -1,4 +1,4 @@
-# Experiments used for the paper submitted to ICONIP2016
+# Experiments used for the paper ~~submitted to~~ presented at [ICONIP2016](www.iconip2016.org)
 # Graceful Degradation under Noise on Brain Inspired Robot Controllers
 ## Abstract
 How can we build robot controllers that are able to work under harsh conditions, but without experiencing catastrophic failures? As seen on the recent Fukushima's nuclear disaster, standard robots break down when exposed to high radiation environments. 
@@ -25,13 +25,17 @@ The results show that not only can the systems withstand noise, but one of the c
 OBS:  
 
 BEE SNN simulator:  
-https://github.com/ricardodeazambuja/LiquidStateMachine-Python
+https://github.com/ricardodeazambuja/BEE
 
 Python scripts in general:  
 https://github.com/ricardodeazambuja/Python-UTILS
 
 V-REP simulator:  
-http://www.coppeliarobotics.com/downloads.html
+http://www.coppeliarobotics.com/downloads.html  
+  
+  
+Preprint version:  
+https://github.com/ricardodeazambuja/ICONIP2016/blob/master/ICONIP2016_preprint.pdf
 
 
 
