@@ -25,7 +25,10 @@ The results show that not only can the systems withstand noise, but one of the c
 OBS:  
 
 BEE SNN simulator:  
-https://github.com/ricardodeazambuja/BEE
+https://github.com/ricardodeazambuja/BEE  
+
+Dynamic Time Warping:  
+https://github.com/ricardodeazambuja/DTW
 
 Python scripts in general:  
 https://github.com/ricardodeazambuja/Python-UTILS
