@@ -40,6 +40,16 @@ http://www.coppeliarobotics.com/downloads.html
 Preprint version:  
 https://github.com/ricardodeazambuja/ICONIP2016/blob/master/ICONIP2016_preprint.pdf
 
+Bibtex citation:
+https://github.com/ricardodeazambuja/ricardodeazambuja.github.io/raw/master/public/citations/azambuja_graceful_2016.bib  
 
+Final Springer Link version:  
+http://link.springer.com/chapter/10.1007/978-3-319-46687-3_21
+
+Related works:  
+https://github.com/ricardodeazambuja/IJCNN2016  
+https://github.com/ricardodeazambuja/IJCNN2017  
+https://github.com/ricardodeazambuja/IJCNN2017-2  
+https://github.com/ricardodeazambuja/I2MTC2017-LSMFusion
 
 
