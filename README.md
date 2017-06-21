@@ -1,4 +1,4 @@
-# Experiments used for the paper ~~submitted to~~ presented at [ICONIP2016](www.iconip2016.org)
+# Experiments used for the paper ~~submitted to~~ presented at [ICONIP2016](http://www.iconip2016.org)
 # Graceful Degradation under Noise on Brain Inspired Robot Controllers
 ## Abstract
 How can we build robot controllers that are able to work under harsh conditions, but without experiencing catastrophic failures? As seen on the recent Fukushima's nuclear disaster, standard robots break down when exposed to high radiation environments. 
